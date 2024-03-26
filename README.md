@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sabya7)](https://git.io/streak-stats)
 <!--
 **Sabya7/Sabya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
